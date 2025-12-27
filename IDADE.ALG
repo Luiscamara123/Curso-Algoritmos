@@ -14,3 +14,4 @@ Inicio
          Escreval ("Voce atingiu a maioridade!")
       FimSe
 Fimalgoritmo
+
