@@ -15,8 +15,11 @@ Inicio
       Se (Media >= 7) entao
          Escreval ("ALUNO APROVADO")
       Senao
-         Escreval ("ALUNO REPROVADO")
+           Se (Media >= 5) e (Media < 7) entao
+              Escreval ("RECUPERAÇÃO")
+           Senao
+                Escreval ("ALUNO REPROVADO")
+           FimSE
       FimSe
       Escreval ("-------------------")
-
 Fimalgoritmo
