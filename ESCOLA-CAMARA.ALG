@@ -3,7 +3,7 @@ Var
    Nota1, Nota2, Media: real
 Inicio
       Escreval ("-------------------")
-      Escreval ("ESCOLA CÂMARA")
+      Escreval ("ESCOLA CAMARA")
       Escreval ("-------------------")
       Escreva ("Primeira Nota: ")
       Leia (Nota1)
@@ -16,7 +16,7 @@ Inicio
          Escreval ("ALUNO APROVADO")
       Senao
            Se (Media >= 5) e (Media < 7) entao
-              Escreval ("RECUPERAÇÃO")
+              Escreval ("RECUPERACAO")
            Senao
                 Escreval ("ALUNO REPROVADO")
            FimSE
