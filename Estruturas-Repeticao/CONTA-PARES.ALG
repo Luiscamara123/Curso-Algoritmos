@@ -8,5 +8,5 @@ Inicio
            Escreval (Contador)
            Contador <- Contador + 2
       FimEnquanto
-      Escreval ("Esses são os números Pares de 0 a 100")
+      Escreval ("Esses sao os numeros Pares de 0 a 100")
 Fimalgoritmo
