@@ -3,7 +3,7 @@ Var
    V1, V2, S: Inteiro
 Funcao Soma(X, Y: Inteiro) : Inteiro
 Inicio
-      Retorne X + Y
+      Retorne X + Y // vai receber o valor "V1" e "V2"
 FimFuncao
 
 Inicio
