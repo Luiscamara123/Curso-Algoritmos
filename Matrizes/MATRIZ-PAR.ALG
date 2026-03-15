@@ -17,7 +17,7 @@ Inicio
       TotPar <- 0
       Para Linha <- 1 ate 3 faca
            Para Coluna <- 1 ate 3 faca
-                Se Valores[Linha, Coluna] % 2 = 0 entao
+                Se (Valores[Linha, Coluna] % 2 = 0) entao
                    Escreva ("{", Valores [Linha, Coluna] : 2, "}")
                    TotPar <- TotPar + 1
                 Senao
